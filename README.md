@@ -1,12 +1,12 @@
    # PROYECTO Nº2  
 
-# DATA ANALITYCS. TEMÁTICA : ACCIDENTES AEREOS
+## DATA ANALITYCS-TEMÁTICA : ACCIDENTES AEREOS
 
 ## Introducción:
 
 En esta ocación nos toca simular un Data Analitycs contratado por la empresa OACI (Organización de Aviación Civil Internacional, con el fin de reducir la tasa de mortalidad en accidentes aereos. 
  
- Para dicho objetivo, la empresa Henry nos brinda el siguiente [DataSets](https://github.com/Davidarr96/Proyecto_DataAnalitycs/blob/master/AccidentesAviones.csv) , con el fin de obtener la mayor información posible para realizar nuestra investigación. Además nos proporciona el siguiente [Repositorio](https://github.com/soyHenry/PI03-Analytics) con toda la información complementaria, donde podremos acceder a más información requerida para nuestro caso.
+ Para dicho objetivo, la empresa Henry nos brinda el siguiente [Dataset](https://github.com/Davidarr96/Proyecto_DataAnalitycs/blob/master/AccidentesAviones.csv) , con el fin de obtener la mayor información posible para realizar nuestra investigación. Además nos proporciona el siguiente [Repositorio](https://github.com/soyHenry/PI03-Analytics) con toda la información complementaria, donde podremos acceder a más información requerida para nuestro caso.
  
  ## EDA ( Análisis exploratortio de los datos)
  
