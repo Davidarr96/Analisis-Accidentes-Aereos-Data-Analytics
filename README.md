@@ -24,7 +24,7 @@ Una vez finalizado el analisis, se exporto este [Dataset](https://github.com/Dav
 
 ## ANALISIS:
 
-Para una correcta interpretación de los datos, se decidío crear visualizaciones enfocados en la cantidad de muertes comoparados a la cantidad de personas a bordo. Se logró identificar patrones y anomalías relacionadas con grandes sucesos de los últimos años, y en base a la mediana  se crearon KPI´s, donde en primera instancia se realiza una disminución progresiva de reduccion del 5% de la tasa de mortalidad total, hasta lograr el cometido 5% anual. Asímismo, se proyectó incrementar de forma correlativa la tasa de supervivencia, donde se ilustra un ejemplo de aumento en sobrevivientes de forma progresiva. Para poner en contexto, invito a que observen mi [Visualización](https://github.com/Davidarr96/Proyecto_DataAnalitycs/blob/master/Aviones.pbix) y puedan darme un feedback.
+Para una correcta interpretación de los datos, se decidío crear visualizaciones enfocados en la cantidad de muertes comparados a la cantidad de personas a bordo. Se logró identificar patrones y anomalías relacionadas con grandes sucesos de los últimos años, y en base a la mediana  se crearon KPI´s, donde en primera instancia se realiza una disminución progresiva de reduccion del 5% de la tasa de mortalidad total, hasta lograr el cometido 5% anual. Asímismo, se proyectó incrementar de forma correlativa la tasa de supervivencia, donde se ilustra un ejemplo de aumento en sobrevivientes de forma progresiva. Para poner en contexto, invito a que observen mi [Visualización](https://github.com/Davidarr96/Proyecto_DataAnalitycs/blob/master/Aviones.pbix) y puedan darme un feedback.
 
 
 
